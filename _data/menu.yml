@@ -8,9 +8,9 @@ entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
         url: false
       - title: github
-        url: https://github.com/riggraz/no-style-please
+        url: https://github.com/wisoffa
       - title: used by riggraz.dev
-        url: https://riggraz.dev/
+        url: https://wisoffa.github.io
 
   - title: thoughts
     post_list: true

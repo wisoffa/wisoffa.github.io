@@ -1,6 +1,6 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+title: Memo, please # name of the site
+author: jwpark # name of site's author
+email: jiwoop.jj@gmail.com # email of site's author
 url: https://riggraz.dev/no-style-please # root address of the site
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
@@ -23,3 +23,9 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental : false
