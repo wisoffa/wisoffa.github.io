@@ -39,6 +39,6 @@ $$
 \lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
 $$
 
-$$
+> $$
 K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
 $$
