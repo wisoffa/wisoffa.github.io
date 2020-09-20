@@ -26,6 +26,8 @@ use_math: true
 \frac{a}{b} = \frac{3}{4}
 \\
 
+2020. 9. 20
+
 
 \\
 f(t, T) = -\frac{\round}{\round t} ln P(t,T)
