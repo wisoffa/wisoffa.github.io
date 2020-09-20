@@ -18,12 +18,4 @@ use_math: true
 
 2020. 9. 20
 
-$f(t, T) = -\frac{\round}{\round t} ln P(t,T) $
-
-$$
-f(t, T) = -\frac{\round}{\round t} ln P(t,T)
-$$
-
-\\
-f(t, T) = -\frac{\round}{\round t} ln P(t,T)
-\\
+$f(t, T) = -\frac{\partial}{\partial t} ln P(t,T) $
