@@ -22,13 +22,11 @@ use_math: true
 \lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}} 
 \$$
 
-> \$$ 
-K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) 
-\$$
-
-왜 \$$는 안되는 거지? \$$
+\\ 
+\frac{a}{b} = \frac{3}{4}
+\\
 
 
-\$$ 
-x + 1 = 3
-\$$
+\\
+f(t, T) = -\frac{\round}{\round t} ln P(t,T)
+\\
